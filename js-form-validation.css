@@ -20,6 +20,7 @@ a {
 
 body,
 html {
+    background-color: var(--background-color);
     scroll-behavior: smooth;
     position: relative;
     overflow-x: hidden;
