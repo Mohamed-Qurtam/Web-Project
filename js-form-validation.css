@@ -20,7 +20,6 @@ a {
 
 body,
 html {
-    background-image: url(assests/back.jpg);
     scroll-behavior: smooth;
     position: relative;
     overflow-x: hidden;
